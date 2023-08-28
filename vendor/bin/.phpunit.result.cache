@@ -1,0 +1,1 @@
+{"version":1,"defects":{"ProcessorTest::testProcessCSV":8,"ProcessorTest::testProcessJSON":8,"ProcessorTest::testProcessXML":8,"ProcessorTest::testProcessTSV":8},"times":{"ProcessorTest::testProcessCSV":0.002,"ProcessorTest::testProcessJSON":0,"ProcessorTest::testProcessXML":0.001,"ProcessorTest::testProcessTSV":0}}

@@ -1,0 +1,112 @@
+[
+ {
+   "make": "Apple",
+   "model": "iPhone 6s Plus",
+   "colour": "Red",
+   "condition": "Working",
+   "grade": "Grade A",
+   "capacity": "256GB",
+   "network": "Unlocked"
+   
+ },
+ {
+   "make": "Apple",
+   "model": "iPhone 6s Plus",
+   "colour": "Red",
+   "condition": "Working",
+   "grade": "Grade A",
+   "capacity": "256GB",
+   "network": "Unlocked"
+   
+ },
+ {
+   "make": "Samsung",
+   "model": "Galaxy S21",
+   "colour": "Black",
+   "condition": "Faulty",
+   "grade": "Grade B",
+   "capacity": "128 GB",
+   "network": "EE Network"
+   
+ },
+ {
+   "make": "Apple",
+   "model": "iPhone 12s ",
+   "colour": "Green",
+   "condition": "Working",
+   "grade": "Grade C",
+   "capacity": "64GB",
+   "network": "Unlocked"
+  
+ },
+ {
+   "make": "Samsung",
+   "model": "Galaxy S20",
+   "colour": "Lavender",
+   "condition": "Working",
+   "grade": "Grade A",
+   "capacity": "256GB",
+   "network": "EE Network"
+ 
+ },
+ {
+   "make": "Apple",
+   "model": "iPhone 14s ",
+   "colour": "White",
+   "condition": "Faulty",
+   "grade": "Grade B",
+   "capacity": "128GB",
+   "network": "EE Network"
+
+ },
+ {
+   "make": "ACCESSORIZE",
+   "model": "UNIVERSAL 10 INCH TABLET FOLIO CASE BIRDS BLACK",
+   "colour": "Multicolour",
+   "condition": "Brand New",
+   "grade": "Brand New",
+   "capacity": "Not Applicable",
+   "network": "Not Applicable"
+ 
+ },
+ {
+   "make": "ACCESSORIZE",
+   "model": "UNIVERSAL 10 INCH TABLET FOLIO CASE BIRDS BLACK",
+   "colour": "Multicolour",
+   "condition": "Brand New",
+   "grade": "Brand New",
+   "capacity": "Not Applicable",
+   "network": "Not Applicable"
+   
+ },
+ {
+   "make": "ACCESSORIZE",
+   "model": "UNIVERSAL 10 INCH TABLET FOLIO CASE BIRDS BLACK",
+   "colour": "Multicolour",
+   "condition": "Brand New",
+   "grade": "Brand New",
+   "capacity": "Not Applicable",
+   "network": "Not Applicable"
+   
+ },
+ {
+   "make": "ACCESSORIZE",
+   "model": "UNIVERSAL 10 INCH TABLET FOLIO CASE BIRDS BLACK",
+   "colour": "Multicolour",
+   "condition": "Brand New",
+   "grade": "Brand New",
+   "capacity": "Not Applicable",
+   "network": "Not Applicable"
+  
+ },
+ {
+   "make": "ACCESSORIZE",
+   "model": "UNIVERSAL 10 INCH TABLET FOLIO CASE BIRDS BLACK",
+   "colour": "Multicolour",
+   "condition": "Brand New",
+   "grade": "Brand New",
+   "capacity": "Not Applicable",
+   "network": "Not Applicable"
+   
+ }
+]

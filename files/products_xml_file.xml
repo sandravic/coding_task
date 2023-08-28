@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <row>
+    <make>Apple</make>
+    <model>iPhone 6s Plus</model>
+    <colour>Red</colour>
+    <condition>Working</condition>
+    <grade>Grade A</grade>
+    <capacity>256GB</capacity>
+    <network>Unlocked</network>
+  </row>
+  <row>
+    <make>Apple</make>
+    <model>iPhone 6s Plus</model>
+    <colour>Red</colour>
+    <condition>Working</condition>
+    <grade>Grade A</grade>
+    <capacity>256GB</capacity>
+    <network>Unlocked</network>
+  </row>
+  <row>
+    <make>Samsung</make>
+    <model>Galaxy S21</model>
+    <colour>Black</colour>
+    <condition>Faulty</condition>
+    <grade>Grade B</grade>
+    <capacity>128 GB</capacity>
+    <network>EE Network</network>
+  </row>
+  <row>
+    <make>Apple</make>
+    <model>iPhone 12s </model>
+    <colour>Green</colour>
+    <condition>Working</condition>
+    <grade>Grade C</grade>
+    <capacity>64GB</capacity>
+    <network>Unlocked</network>
+  </row>
+  <row>
+    <make>Samsung</make>
+    <model>Galaxy S20</model>
+    <colour>Lavender</colour>
+    <condition>Working</condition>
+    <grade>Grade A</grade>
+    <capacity>256GB</capacity>
+    <network>EE Network</network>
+  </row>
+  <row>
+    <make>Apple</make>
+    <model>iPhone 14s </model>
+    <colour>White</colour>
+    <condition>Faulty</condition>
+    <grade>Grade B</grade>
+    <capacity>128GB</capacity>
+    <network>EE Network</network>
+  </row>
+  <row>
+    <make>ACCESSORIZE</make>
+    <model>UNIVERSAL 10 INCH TABLET FOLIO CASE - BIRDS BLACK</model>
+    <colour>Multicolour</colour>
+    <condition>Brand New</condition>
+    <grade>Brand New</grade>
+    <capacity>Not Applicable</capacity>
+    <network>Not Applicable</network>
+  </row>
+  <row>
+    <make>ACCESSORIZE</make>
+    <model>UNIVERSAL 10 INCH TABLET FOLIO CASE - BIRDS BLACK</model>
+    <colour>Multicolour</colour>
+    <condition>Brand New</condition>
+    <grade>Brand New</grade>
+    <capacity>Not Applicable</capacity>
+    <network>Not Applicable</network>
+  </row>
+  <row>
+    <make>ACCESSORIZE</make>
+    <model>UNIVERSAL 10 INCH TABLET FOLIO CASE - BIRDS BLACK</model>
+    <colour>Multicolour</colour>
+    <condition>Brand New</condition>
+    <grade>Brand New</grade>
+    <capacity>Not Applicable</capacity>
+    <network>Not Applicable</network>
+  </row>
+</root>
