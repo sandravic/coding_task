@@ -53,4 +53,4 @@ composer require --dev phpunit/phpunit
 2. Save the provided unit test code in a file named ` ProcessorTest.php`.
 3. Run
 vendor/bin/phpunit test/ProcessorTest.php
-![image](https://github.com/sandravic/coding_task/assets/115503411/5e0e65b5-3275-416b-b8c7-11b92f5ef904)
+
